@@ -1,2 +1,5 @@
-dist/*
-node_modules/*
+# The output file
+dist/**/*
+
+# The dependencies
+node_modules/**/*
